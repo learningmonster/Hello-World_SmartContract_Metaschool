@@ -1,0 +1,4 @@
+# files to be exluded from the Github repo
+
+.env
+node_modules
